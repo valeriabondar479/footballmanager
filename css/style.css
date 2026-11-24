@@ -1,0 +1,67 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: radial-gradient(circle at center, #34619d 0%, #34619d 1%, #1d3b6e 100%);
+}
+
+.wrapper {}
+
+.navigation a {
+    text-transform: uppercase;
+    color: #fff;
+    font: bold 14px/2.1em Arial;
+}
+.number img {
+    width: 26px;
+}
+.number a {
+    color: #fff;
+    font: 16px/3.1em Arial;
+}
+
+.main-content {
+    max-width: 687px;
+}
+
+.main-content i {
+    color: #fff;
+    font: italic 16px Arial;
+}
+
+.main-content h1 {
+    text-transform: uppercase;
+    color: #fff;
+    font: 800 48px Arial; 
+}
+
+.main-content p {
+    color: #fff;
+    font: 30px Arial;
+}   
+
+.main-content a {
+    text-transform: uppercase;
+    color: #f4d633;
+    font: bold 18px Arial; 
+} 
+
+.main-content  span {
+    color: #fff;
+    font:bold 20px Arial;
+}
+
+.footer {
+
+}
+
+.schedule {
+    color: #1e3c6f;
+    font: bold 14px/1.1em Arial;
+}
+
+.footer {
+    background-color: #f4d633;
+}
+
+.social img {
+    width: 25px;
+}
