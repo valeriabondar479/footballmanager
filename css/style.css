@@ -1,9 +1,14 @@
 body {
     font-family: Arial, sans-serif;
     background-image: radial-gradient(circle at center, #34619d 0%, #34619d 1%, #1d3b6e 100%);
+    
 }
 
 .wrapper {}
+
+.logo {
+    width: 35px;
+}
 
 .navigation a {
     text-transform: uppercase;
@@ -64,4 +69,8 @@ body {
 
 .social img {
     width: 25px;
+}
+
+.logo-footer {
+    
 }
